@@ -29,7 +29,8 @@ state = {
             <img src={coronaimage} alt='Covid19' className={styles.image}/>
             <Cards data={data}/>
             <CountryPicker handleCountryChange={ this.handleCountryChange }/>
-            <Chart data={data} country={country}/>
+            <Chart data={data} country={country}/><hr></hr>
+            <footer className={styles.footer}>Built with React JS | Sabarish Rajamohan</footer>
             </div>
         );
     };

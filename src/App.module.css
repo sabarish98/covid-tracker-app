@@ -12,6 +12,13 @@ body{
     width: 370px;
     margin-top: 50px;
  }
+ .footer{
+     align-self: flex-end;
+     text-shadow: black;
+     font-family: cursive;
+     font-style: initial;
+     font-size: 10px;
+ }
 
  @media(max-width: 770px){
      .container{
