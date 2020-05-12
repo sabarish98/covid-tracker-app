@@ -12,7 +12,7 @@ This site is live at https://sabarish98.github.io/covid-tracker-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-To run the app locally,
-1. Clone the repo - git clone
+To run the app locally, Node Package Manager (NPM) and Node.js is necessary.
+1. Clone the repo - `git clone`
 2. Move into the project directory
-3. Run npm i && npm start
+3. Run `npm i && npm start`
